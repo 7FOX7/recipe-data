@@ -1,0 +1,27 @@
+
+{
+  "ingredients": [
+    "cucumber", "tomato", "potato", "cabbage", "mushroom", "onion", "garlic", "carrot", "bell pepper", "lettuce",
+    "spinach", "kale", "zucchini", "broccoli", "cauliflower", "eggplant", "asparagus", "radish", "beetroot", "artichoke",
+    "okra", "turnip", "leek", "celery", "brussels sprouts", "sweet potato", "pumpkin", "corn", "green beans", "peas",
+    "apple", "banana", "orange", "lemon", "lime", "strawberry", "blueberry", "raspberry", "blackberry", "mango",
+    "pineapple", "papaya", "grapes", "kiwi", "watermelon", "cantaloupe", "pomegranate", "cherry", "peach", "plum",
+    "fig", "date", "pear", "coconut", "avocado",
+    "basil", "cilantro", "parsley", "thyme", "rosemary", "oregano", "sage", "dill", "mint", "chives",
+    "tarragon", "bay leaf", "ginger", "turmeric", "cinnamon", "nutmeg", "cloves", "black pepper", "paprika", "cumin",
+    "milk", "cheese", "butter", "yogurt", "cream", "sour cream", "cottage cheese", "parmesan", "mozzarella", "egg",
+    "chicken", "beef", "pork", "lamb", "turkey", "duck", "salmon", "tuna", "shrimp", "crab",
+    "lobster", "tofu", "lentils", "chickpeas", "black beans",
+    "rice", "quinoa", "oats", "barley", "buckwheat", "cornmeal", "almonds", "walnuts", "cashews", "peanuts",
+    "pistachios", "sunflower seeds", "pumpkin seeds", "sesame seeds", "chia seeds", "flaxseeds", "wheat flour", "coconut flour",
+    "rye", "spelt", "bulgur", "couscous", "millet", "macadamia nuts", "brazil nuts",
+    "olive oil", "vegetable oil", "coconut oil", "sesame oil", "apple cider vinegar", "balsamic vinegar",
+    "soy sauce", "mustard", "ketchup", "mayonnaise",
+    "sugar", "honey", "maple syrup", "molasses", "agave syrup", "chocolate", "vanilla extract", "cocoa powder",
+    "yeast", "baking powder",
+    "coffee beans", "tea leaves", "lemon juice", "orange juice", "almond milk",
+    "passion fruit", "guava", "dragon fruit", "starfruit", "goji berries", "mulberries", "jackfruit", "lychee", "persimmon", "tamarind",
+    "watercress", "fennel", "bok choy", "mustard greens", "endive", "arugula", "horseradish", "scallions", "shallots", "chard",
+    "adzuki beans", "mung beans", "hemp seeds", "caraway seeds", "poppy seeds", "goat cheese", "ghee", "duck eggs", "venison", "bison"
+  ]
+}
